@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Flutter Developer
+### Hello! I'm Gyan Upadhyay, a passionate developer with a deep love for creating innovative and user-friendly mobile and web applications. With a strong background in Flutter and JavaScript, I have dedicated myself to crafting digital experiences that not only meet but exceed the expectations of users.
 
 <!--
 **gyanupadhyay/gyanupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
